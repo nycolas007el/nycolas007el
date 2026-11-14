@@ -1,4 +1,3 @@
-[nycolas007el-profile-README.md](https://github.com/user-attachments/files/34855448/nycolas007el-profile-README.md)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,30&height=220&section=header&text=Olá,%20eu%20sou%20o%20Nycolas!%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
@@ -11,7 +10,8 @@
   Entusiasta em desenvolvimento de software, focado no ecossistema <b>Java</b> e na construção de arquiteturas backend robustas integradas a interfaces dinâmicas.
 </p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nm706497@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nycolas_Moreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nycolas-moreira-286206343/)
+[![Gmail](https://img.shields.io/badge/Gmail-nm706497%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nm706497@gmail.com)
 
 </div>
 
@@ -64,15 +64,21 @@
 
 ---
 
-### 🚀 Projeto em Destaque
+### 🚀 Projetos em Destaque
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="50%">
       <b>🎴 Cards Yugioh Hub</b><br>
-      <i>Aplicação Full Stack completa com autenticação de usuários, persistência relacional e criação dinâmica de cartas.</i><br><br>
-      <code>Java 21</code> • <code>Spring Boot</code> • <code>MySQL</code> • <code>HTML/CSS/JS</code><br><br>
-      👉 <a href="https://github.com/nycolas007el/Cards-Yugioh">Acessar repositório</a>
+      <i>Aplicação Full Stack com autenticação e criação dinâmica de cartas.</i><br><br>
+      <code>Java 21</code> • <code>Spring Boot</code> • <code>MySQL</code><br><br>
+      👉 <a href="https://github.com/nycolas007el/Cards-Yugioh">Ver projeto</a>
+    </td>
+    <td width="50%">
+      <b>🦉 ENEM Lingo</b><br>
+      <i>Plataforma gamificada estilo Duolingo com foco nas questões do ENEM.</i><br><br>
+      <code>JavaScript</code> • <code>HTML5</code> • <code>CSS3</code><br><br>
+      👉 <a href="https://github.com/nycolas007el/Enem-Lingo">Ver projeto</a>
     </td>
   </tr>
 </table>
