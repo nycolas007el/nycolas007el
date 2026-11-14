@@ -11,7 +11,6 @@
   Entusiasta em desenvolvimento de software, focado no ecossistema <b>Java</b> e na construção de arquiteturas backend robustas integradas a interfaces dinâmicas.
 </p>
 
-[![LinkedIn]((https://www.linkedin.com/in/nycolas-moreira-286206343/))
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nm706497@gmail.com)
 
 </div>
